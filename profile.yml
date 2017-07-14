@@ -1,2 +1,6 @@
+management:
+    security:
+        enabled :false
+
 username: Rajesh Puthiyedath
 name: Rajesh
